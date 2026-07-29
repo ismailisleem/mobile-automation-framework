@@ -1,10 +1,10 @@
 # Mobile Automation Framework User Guide
 
-[![Mobile Framework Validation](https://github.com/iisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml/badge.svg)](https://github.com/iisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml)
+[![Mobile Framework Validation](https://github.com/ismailisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml/badge.svg)](https://github.com/ismailisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Appium](https://img.shields.io/badge/mobile-Appium-662D91.svg)](https://appium.io/)
 [![Pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC.svg)](https://pytest.org/)
-[![Reports](https://img.shields.io/badge/reports-core%20product-2563EB.svg)](https://github.com/iisleem/automation-core)
+[![Reports](https://img.shields.io/badge/reports-core%20product-2563EB.svg)](https://github.com/ismailisleem/automation-core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Standalone Python mobile automation framework for Android and iOS native, hybrid, and mobile
@@ -484,7 +484,7 @@ capability profiles, add product screen objects and flows, and keep framework in
 framework package.
 
 For the shared framework template direction, see the
-[automation-core template strategy](https://github.com/iisleem/automation-core/blob/main/docs/template_strategy.md).
+[automation-core template strategy](https://github.com/ismailisleem/automation-core/blob/main/docs/template_strategy.md).
 
 ## Known Limits
 
