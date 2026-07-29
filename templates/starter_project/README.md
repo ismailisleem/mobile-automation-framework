@@ -15,4 +15,4 @@ internals. Keep only product-specific capabilities, screens, flows, and tests he
 helpers should stay in the framework.
 
 For the shared framework template direction, see the
-[automation-core template strategy](https://github.com/iisleem/automation-core/blob/main/docs/template_strategy.md).
+[automation-core template strategy](https://github.com/ismailisleem/automation-core/blob/main/docs/template_strategy.md).
