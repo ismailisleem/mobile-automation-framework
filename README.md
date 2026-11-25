@@ -1,4 +1,4 @@
-# Mobile Automation Framework User Guide
+# Mobile Automation Framework
 
 [![Mobile Framework Validation](https://github.com/ismailisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml/badge.svg)](https://github.com/ismailisleem/mobile-automation-framework/actions/workflows/mobile-framework.yml)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
