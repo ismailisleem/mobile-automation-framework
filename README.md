@@ -7,6 +7,20 @@
 [![Reports](https://img.shields.io/badge/reports-core%20product-2563EB.svg)](https://github.com/ismailisleem/automation-core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+Appium + Pytest framework for Android and iOS: native, hybrid, and mobile web, with screen objects, device profiles, failure artifacts, and a built-in HTML report.
+
+![Mobile report overview](docs/assets/walkthrough/core-report-overview.png)
+
+**Quick start**
+
+```bash
+pip install -r requirements.txt
+python framework.py doctor
+python framework.py run --helpers
+```
+
+The helper suite runs without a device. Device setup is below.
+
 Standalone Python mobile automation framework for Android and iOS native, hybrid, and mobile
 web experiences. It uses Appium 2, Pytest, Screen Object Model, reusable flows, capability
 profiles, failure artifacts, core product reporting from Allure-compatible results, and a helper
@@ -17,6 +31,9 @@ as API setup, polling, files, and test data are included only because they are u
 test setup, cleanup, and assertions.
 
 ## What This Framework Gives You
+
+<details>
+<summary>Show the full feature list</summary>
 
 - Android and iOS automation through Appium capability profiles
 - Native app, hybrid app, and mobile web support through Appium sessions
@@ -44,7 +61,12 @@ test setup, cleanup, and assertions.
 - Manual self-hosted/device-farm workflow for real Android and iOS device examples
 - Starter project template for product-specific mobile suites
 
+</details>
+
 ## Project Structure
+
+<details>
+<summary>Show the project structure</summary>
 
 ```text
 mobile-automation-framework/
@@ -97,6 +119,8 @@ mobile-automation-framework/
 ├── requirements-dev.txt
 └── pyproject.toml
 ```
+
+</details>
 
 ## Requirements
 
